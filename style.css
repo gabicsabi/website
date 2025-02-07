@@ -20,7 +20,7 @@ html h1{
     left: 0;
     right: 0;
     bottom: 0;
-    animation: rotate_4001510 7s infinite linear;
+    animation: rotate_4001510 3s infinite linear;
     transform-style: preserve-3d;
   }
   
